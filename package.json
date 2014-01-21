@@ -1,0 +1,21 @@
+{
+  "name": "celery-to-librato",
+  "version": "0.0.1",
+  "description": "Import from Celery, export to Librato.",
+  "main": "app.coffee",
+  "dependencies": {
+    "restler": "~3.1.0",
+    "librato-metrics": "0.0.7",
+    "moment": "~2.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cazzo/celery-to-librato.git"
+  },
+  "author": "Zach Supalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cazzo/celery-to-librato/issues"
+  }
+}
